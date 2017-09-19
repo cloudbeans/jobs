@@ -2,7 +2,7 @@
 工作地点：杭州，滨江
 
 招聘:iOS客户端,Andriod客户端,服务端开发工程师！
-简历投递邮箱：kinglen.maoxy@alibaba-inc.com 
+简历投递邮箱：kinglen.maoxy@alibaba-inc.com
 软文介绍：[阿里巴巴国际无线技术部 - 在这里遇见最好的自己](http://icbu.info/welcome-to-icbu/)
 
 # 我们在做什么
