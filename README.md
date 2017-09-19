@@ -24,7 +24,7 @@
 * 有多个完整的IOS项目经验，至少参加过一个完整的商业级手机应用；
 
 # 招聘邮箱
-xianhua.zxh@alibaba-inc.com
+kinglen.maoxy@alibaba-inc.com
 
 # 我们能提供什么
 * 具有竞争力的薪酬；
